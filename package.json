@@ -1,0 +1,13 @@
+{
+  "name": "onchain-dao-governor",
+  "version": "1.0.0",
+  "description": "Simplified DAO governance and voting contract",
+  "main": "Governor.sol",
+  "keywords": [
+    "dao",
+    "governance",
+    "voting",
+    "solidity",
+    "blockchain"
+  ]
+}
